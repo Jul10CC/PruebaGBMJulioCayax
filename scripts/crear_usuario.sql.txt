@@ -1,0 +1,10 @@
+-- Crear login a nivel del servidor
+USE master;
+CREATE LOGIN sa_administrador WITH PASSWORD = 'AdminGBM2025';
+
+-- Crear el usuario en la base de datos SampleDB
+USE SampleDB;
+CREATE USER sa_administrador FOR LOGIN sa_administrador;
+
+-- Darle permisos (ej. db_owner para que tenga control total sobre SampleDB)
+ALTER ROLE db_owner ADD MEMBER sa_administrador;

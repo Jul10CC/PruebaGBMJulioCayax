@@ -1,0 +1,12 @@
+CREATE TABLE EMPLOYEE (
+    ID INT IDENTITY(1,1) PRIMARY KEY,
+    FirstName NVARCHAR(100),
+    LastName NVARCHAR(100),
+    Email NVARCHAR(100),
+    Phone NVARCHAR(50),
+    Department NVARCHAR(100),
+    Position NVARCHAR(100),
+    HireDate DATE,
+    Salary FLOAT,
+    Status NVARCHAR(50)
+);

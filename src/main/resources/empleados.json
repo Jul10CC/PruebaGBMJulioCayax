@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "firstName": "Julio",
+    "lastName": "Cayax",
+    "email": "julio.cayax@example.com",
+    "phone": "555-1234",
+    "department": "Sistemas",
+    "position": "Desarrollador",
+    "hireDate": "2023-01-15",
+    "salary": 12000.00,
+    "status": "Activo"
+  },
+  {
+    "id": 2,
+    "firstName": "Ari",
+    "lastName": "López",
+    "email": "ari.lopez@example.com",
+    "phone": "555-5678",
+    "department": "Recursos Humanos",
+    "position": "Especialista",
+    "hireDate": "2022-10-01",
+    "salary": 15000.00,
+    "status": "Activo"
+  },
+  {
+    "id": 2,
+    "firstName": "Miguel",
+    "lastName": "Santos",
+    "email": "migueSantos@example.com",
+    "phone": "555-5678",
+    "department": "Recursos Humanos",
+    "position": "Especialista",
+    "hireDate": "2022-10-01",
+    "salary": 15000.00,
+    "status": "Activo"
+  }
+]

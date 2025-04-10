@@ -1,4 +1,0 @@
-ID;FirstName;LastName;Email;Phone;Department;Position;HireDate;Salary;Status
-1;Julio;Cayax;julio.cayax@example.com;555-1234;Sistemas;Desarrollador;2023-01-15;12000.00;Activo
-2;Ari;López;ari.lopez@example.com;555-5678;Recursos Humanos;Especialista;2022-10-01;15000.00;Activo
-3;Miguel;Santos;migueSantos@example.com;555-5678;Recursos Humanos;Especialista;2022-10-01;15000.00;Activo

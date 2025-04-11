@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "firstName": "Julio",
+    "lastName": "Cayax",
+    "email": "julio.cayax@example.com",
+    "phone": "555-1234",
+    "department": "Sistemas",
+    "position": "Desarrollador",
+    "hireDate": "2023-01-15",
+    "salary": 12000.00,
+    "status": "Activo"
+  },
+  {
+    "id": 2,
+    "firstName": "Ari",
+    "lastName": "López",
+    "email": "ari.lopez@example.com",
+    "phone": "555-5678",
+    "department": "Recursos Humanos",
+    "position": "Especialista",
+    "hireDate": "2022-10-01",
+    "salary": 15000.00,
+    "status": "Activo"
+  },
+  {
+    "id": 3,
+    "firstName": "Miguel",
+    "lastName": "Santos",
+    "email": "miguel.santos@example.com",
+    "phone": "555-7890",
+    "department": "Finanzas",
+    "position": "Contador",
+    "hireDate": "2021-11-20",
+    "salary": 9500.00,
+    "status": "Activo"
+  },
+  {
+    "id": 4,
+    "firstName": "Carlos",
+    "lastName": "Méndez",
+    "email": "carlos.mendez@example.com",
+    "phone": "555-3456",
+    "department": "IT",
+    "position": "Administrador de Sistemas",
+    "hireDate": "2020-07-12",
+    "salary": 11000.00,
+    "status": "Activo"
+  },
+  {
+    "id": 5,
+    "firstName": "Laura",
+    "lastName": "Gutiérrez",
+    "email": "laura.gutierrez@example.com",
+    "phone": "555-2345",
+    "department": "Marketing",
+    "position": "Gerente de Marketing",
+    "hireDate": "2021-05-16",
+    "salary": 13000.00,
+    "status": "Activo"
+  },
+  {
+    "id": 6,
+    "firstName": "Rosa",
+    "lastName": "Martínez",
+    "email": "rosa.martinez@example.com",
+    "phone": "555-6789",
+    "department": "Ventas",
+    "position": "Ejecutiva de Ventas",
+    "hireDate": "2022-03-22",
+    "salary": 9000.00,
+    "status": "Activo"
+  },
+  {
+    "id": 7,
+    "firstName": "José",
+    "lastName": "Ramírez",
+    "email": "jose.ramirez@example.com",
+    "phone": "555-9876",
+    "department": "Logística",
+    "position": "Coordinador Logístico",
+    "hireDate": "2021-09-01",
+    "salary": 10500.00,
+    "status": "Activo"
+  },
+  {
+    "id": 8,
+    "firstName": "Beatriz",
+    "lastName": "Pérez",
+    "email": "beatriz.perez@example.com",
+    "phone": "555-5432",
+    "department": "Recursos Humanos",
+    "position": "Especialista en Talento Humano",
+    "hireDate": "2021-01-25",
+    "salary": 9500.00,
+    "status": "Activo"
+  },
+  {
+    "id": 9,
+    "firstName": "Tomás",
+    "lastName": "López",
+    "email": "tomas.lopez@example.com",
+    "phone": "555-4321",
+    "department": "Sistemas",
+    "position": "Desarrollador Backend",
+    "hireDate": "2022-11-10",
+    "salary": 14000.00,
+    "status": "Activo"
+  },
+  {
+    "id": 10,
+    "firstName": "Gabriela",
+    "lastName": "González",
+    "email": "gabriela.gonzalez@example.com",
+    "phone": "555-8765",
+    "department": "IT",
+    "position": "Soporte Técnico",
+    "hireDate": "2020-08-15",
+    "salary": 8000.00,
+    "status": "Activo"
+  }
+]

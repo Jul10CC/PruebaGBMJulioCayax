@@ -2,18 +2,26 @@ package org.example;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.List;
+import java.util.Properties;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
-import java.util.List;
+
+import org.example.models.Empleado;
 
 public class InsertarEmpleados {
 
     public static void main(String[] args) {
         try {
+            Properties prop = new Properties();
+            prop.load(new FileInputStream("src/main/resources/app.properties"));
+            String empleadosJsonPath = prop.getProperty("empleados.json.path");
+
             List<Empleado> empleados = new ObjectMapper().readValue(
-                    new File("src/main/resources/empleados.json"),
+                    new File(empleadosJsonPath),
                     new TypeReference<List<Empleado>>() {}
             );
 
@@ -37,6 +45,8 @@ public class InsertarEmpleados {
                 System.out.println("Empleados insertados con éxito.");
             }
 
+        } catch (IOException e) {
+            e.printStackTrace();
         } catch (Exception e) {
             e.printStackTrace();
         }

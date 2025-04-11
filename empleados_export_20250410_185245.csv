@@ -1,0 +1,11 @@
+ID;FirstName;LastName;Email;Phone;Department;Position;HireDate;Salary;Status
+1;Julio;Cayax;julio.cayax@example.com;555-1234;Sistemas;Desarrollador;2023-01-15;12000.00;Activo
+2;Ari;López;ari.lopez@example.com;555-5678;Recursos Humanos;Especialista;2022-10-01;15000.00;Activo
+3;Miguel;Santos;miguel.santos@example.com;555-7890;Finanzas;Contador;2021-11-20;9500.00;Activo
+4;Carlos;Méndez;carlos.mendez@example.com;555-3456;IT;Administrador de Sistemas;2020-07-12;11000.00;Activo
+5;Laura;Gutiérrez;laura.gutierrez@example.com;555-2345;Marketing;Gerente de Marketing;2021-05-16;13000.00;Activo
+6;Rosa;Martínez;rosa.martinez@example.com;555-6789;Ventas;Ejecutiva de Ventas;2022-03-22;9000.00;Activo
+7;José;Ramírez;jose.ramirez@example.com;555-9876;Logística;Coordinador Logístico;2021-09-01;10500.00;Activo
+8;Beatriz;Pérez;beatriz.perez@example.com;555-5432;Recursos Humanos;Especialista en Talento Humano;2021-01-25;9500.00;Activo
+9;Tomás;López;tomas.lopez@example.com;555-4321;Sistemas;Desarrollador Backend;2022-11-10;14000.00;Activo
+10;Gabriela;González;gabriela.gonzalez@example.com;555-8765;IT;Soporte Técnico;2020-08-15;8000.00;Activo
